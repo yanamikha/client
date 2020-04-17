@@ -1,0 +1,13 @@
+1.1 200 OK
+Server: nginx/1.10.3 (Ubuntu)
+Date: Fri, 17 Apr 2020 21:31:48 GMT
+Content-Type: text/plain
+Content-Length: 45
+Last-Modified: Sat, 07 Mar 2020 22:13:46 GMT
+Connection: close
+ETag: "5e641c9a-2d"
+Expires: Fri, 17 Apr 2020 21:31:58 GMT
+Cache-Control: max-age=10
+Accept-Ranges: bytes
+
+here is some text, which should
